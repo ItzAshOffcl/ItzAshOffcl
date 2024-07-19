@@ -36,7 +36,7 @@
 
 <div align='center'>
 
-[![Tools](https://skillicons.dev/icons?i=java,python,c,js,nodejs,express,html,css,angular,react,tailwind,mongodb,mysql,firebase,docker&perline=7)](https://github.com/ItzAshOffcl/ItzAshOffcl)
+[![Tools](https://skillicons.dev/icons?i=java,python,c,js,nodejs,express,html,css,angular,react,tailwind,mongodb,mysql,firebase&perline=7)](https://github.com/ItzAshOffcl/ItzAshOffcl)
 
 </div>
 <h3 align="left">Tools I Use:</h3>
@@ -44,7 +44,7 @@
 
 <div align='center'>
   
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,vscode,notion,photoshop,figma)](https://github.com/ItzAshOffcl/ItzAshOffcl)
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,notion,photoshop,figma)](https://github.com/ItzAshOffcl/ItzAshOffcl)
 
 
 ---
