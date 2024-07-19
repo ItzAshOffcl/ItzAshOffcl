@@ -24,10 +24,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="mailto:ashwinkumar11203@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?labelColor=White&style=flat&logo=Gmail" alt="Gmail"></a>
-<a href="https://linkedin.com/in/itzashoffcl" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-<a href="https://discord.com/channels/@me"><img src="https://img.shields.io/badge/itzashoffcl-white?labelColor=White&style=flat&logo=Discord" alt="Discord"></a>
-
+<a href="mailto:ashwinkumar11203@gmail.com"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail1.svg" alt="Gmail"></a>
+<a href="https://linkedin.com/in/itzashoffcl" target="_blank"><img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin1.svg" alt="LinkedIn"></a>
 
 
 </p>
