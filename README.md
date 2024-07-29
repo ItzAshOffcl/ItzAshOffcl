@@ -53,13 +53,8 @@
 
 <div align="center">
 
-![Ashwin Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsashoffcl&theme=dark&show_icons=true&&hide=issues,contribs&bg_color=0,000000,1d1d1d&icon_color=fff)
+<a href="https://github.com/itzashoffcl"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsashoffcl&theme=github_dark&show_icons=true&icon_color=fff&line_height=28&rank_icon=github"></a>
+<a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsashoffcl&show_icons=true&locale=en&layout=donut&theme=github_dark&icon_color=fff&text_color=fff&title_color=fff"></a>
 
-</br>
-</br>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsashoffcl&show_icons=true&locale=en&layout=compact&bg_color=0,000000,1d1d1d&icon_color=fff&text_color=fff&title_color=fff" alt="itzashoffcl" /></p>
 <hr>
 </div>
