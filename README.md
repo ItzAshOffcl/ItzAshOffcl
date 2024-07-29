@@ -31,10 +31,10 @@
 </p>
 <hr>
 
-
 <h3 align="left">I Code on:</h3>
 
-<div align='center'>
+<div align='left'>
+    
 
 [![Tools](https://skillicons.dev/icons?i=java,python,c,js,nodejs,express,html,css,angular,react,tailwind,mongodb,mysql,firebase&perline=7)](https://github.com/ItzAshOffcl/ItzAshOffcl)
 
@@ -42,7 +42,7 @@
 <h3 align="left">Tools I Use:</h3>
 
 
-<div align='center'>
+<div align='left'>
   
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,vscode,notion,photoshop,figma)](https://github.com/ItzAshOffcl/ItzAshOffcl)
 
@@ -53,8 +53,18 @@
 
 <div align="center">
 
-<a href="https://github.com/itzashoffcl"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsashoffcl&theme=github_dark&show_icons=true&icon_color=fff&line_height=28&rank_icon=github"></a>
-<a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsashoffcl&show_icons=true&locale=en&layout=donut&theme=github_dark&icon_color=fff&text_color=fff&title_color=fff"></a>
+<a href="https://github.com/itzashoffcl"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsashoffcl&theme=github_dark&show_icons=true&icon_color=4c8eda&line_height=28&rank_icon=github"></a>
+<a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsashoffcl&show_icons=true&locale=en&layout=donut&theme=github_dark"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
+
+![Ashwin Kumar's Graph](https://github-readme-activity-graph.vercel.app/graph?username=itzashoffcl&custom_title=%20Ashwin%20Kumar's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=4c8eda&line=4c8eda&point=4c8eda&area_color=90c4ff&area=true&radius=16)
+
 
 <hr>
 </div>
