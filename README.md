@@ -12,9 +12,9 @@
 
 -  I’m currently a **_Student_**
 
--  I’m looking to collaborate on **_DevOps_** and **_Open Source Contribution_**
+-  I’m looking to collaborate on **_DevOps_**
 
--  I’m looking for help with **_Placements in MAANG_**
+-  I’m looking for help with **_Open Source Contribution_**
 
 - I regularly write articles on **_[Medium](https://medium.com/@ItzAshOffcl)_**
 
