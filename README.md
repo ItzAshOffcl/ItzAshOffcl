@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<a href="https://github.com/itzashoffcl"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itsashoffcl&theme=github_dark&show_icons=true&icon_color=4c8eda&line_height=28&rank_icon=github"></a>
-<a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsashoffcl&show_icons=true&locale=en&layout=donut&theme=github_dark"></a>
+<a href="https://github.com/itzashoffcl"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=itzashoffcl&theme=github_dark&show_icons=true&icon_color=4c8eda&line_height=28&rank_icon=github"></a>
+<a href="https://github.com/itzashoffcl"><img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=itzashoffcl&show_icons=true&locale=en&layout=donut&theme=github_dark"></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
